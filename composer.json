@@ -1,0 +1,13 @@
+{
+    "name": "elton/paymentsds-php-implementation",
+    "authors": [
+        {
+            "name": "Elton Laice",
+            "email": "me@eltonlaice.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "paymentsds/mpesa": "dev-develop"
+    }
+}
