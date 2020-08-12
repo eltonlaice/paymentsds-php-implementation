@@ -24,8 +24,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="valor">Transação No.</label>
-                        <input type="number" class="form-control" id="transaction" name="transaction"  value="123456" required>
+                        <label for="valor">Referência No.</label>
+                        <input type="number" class="form-control" id="reference" name="reference"  value="<?php echo rand(1, 1000000)?>" required>
                     </div>
                     <button type="submit" class="btn btn-primary">Pagamento</button>
                     
