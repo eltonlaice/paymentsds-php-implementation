@@ -12,7 +12,7 @@
     <div class="container">
         <h4>paymentsds-php-implementation (C2B) </h4>
         <div class="row justify-content-center">
-            <div class="col-5">
+            <div class="col-12 col-sm-5 col-md-5 col-lg-5 col-xl-5">
                 <form method="POST" action="pagamento.php">
                     <div class="form-group">
                         <label for="celular">Celular No.</label>
